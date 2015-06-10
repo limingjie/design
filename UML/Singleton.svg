@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="Singleton.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="67.48402"
-     inkscape:cy="1019.7922"
+     inkscape:zoom="2.8"
+     inkscape:cx="109.75638"
+     inkscape:cy="930.96736"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,70 +60,103 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#ffffc0;fill-opacity:1;stroke:#ff0000;stroke-width:0.53033006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#ffffc0;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect2987"
-       width="135"
-       height="15"
-       x="10"
-       y="12.362183" />
-    <rect
-       style="fill:#ffffc0;fill-opacity:1;stroke:#ff0000;stroke-width:0.53033006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect2987-1"
-       width="135"
-       height="15"
-       x="10"
-       y="27.362183" />
-    <rect
-       style="fill:#ffffc0;fill-opacity:1;stroke:#ff0000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect2987-1-7"
-       width="135"
+       width="270"
        height="30"
-       x="10"
-       y="42.362183" />
+       x="10.25"
+       y="12.612183" />
+    <rect
+       style="fill:#ffffc0;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2987-1"
+       width="270"
+       height="30"
+       x="10.25"
+       y="42.612183" />
+    <rect
+       style="fill:#ffffc0;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2987-1-7"
+       width="270"
+       height="54.75"
+       x="10.25"
+       y="72.612183" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="50.998535"
-       y="22.628296"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="92.24707"
+       y="33.144409"
        id="text3800"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3802"
-         x="50.998535"
-         y="22.628296"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold">Singleton</tspan></text>
+         x="92.24707"
+         y="33.144409"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Verdana;-inkscape-font-specification:Verdana Bold;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">Singleton</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       x="15"
-       y="37.362183"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+       x="35"
+       y="62.362183"
        id="text3817"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3819"
-         x="15"
-         y="37.362183">- instance : Singleton = null</tspan></text>
+         x="35"
+         y="62.362183">instance : Singleton = null</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       x="15"
-       y="52.362183"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+       x="35"
+       y="92.362183"
        id="text3821"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3823"
-         x="15"
-         y="52.362183">+ getInstance() : Singleton</tspan></text>
+         x="35"
+         y="92.362183">getInstance() : Singleton</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-       x="15"
-       y="67.362183"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+       x="35"
+       y="117.36218"
        id="text3825"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3827"
+         x="35"
+         y="117.36218">Singleton() : void</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+       x="17.914063"
+       y="62.358276"
+       id="text3829"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3831"
+         x="17.914063"
+         y="62.358276">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+       x="15"
+       y="92.362183"
+       id="text3833"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3835"
          x="15"
-         y="67.362183">- Singleton() : void</tspan></text>
+         y="92.362183">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+       x="17.914063"
+       y="117.35828"
+       id="text3837"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3839"
+         x="17.914063"
+         y="117.35828">-</tspan></text>
   </g>
 </svg>
