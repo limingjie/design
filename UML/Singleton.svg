@@ -61,21 +61,21 @@
      id="layer1">
     <rect
        style="fill:#ffffc0;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect2987"
+       id="rect_class"
        width="270"
        height="30"
        x="10.25"
        y="12.612183" />
     <rect
        style="fill:#ffffc0;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect2987-1"
+       id="rect_attributes"
        width="270"
        height="30"
        x="10.25"
        y="42.612183" />
     <rect
        style="fill:#ffffc0;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect2987-1-7"
+       id="rect_methods"
        width="270"
        height="54.75"
        x="10.25"
@@ -85,7 +85,7 @@
        style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        x="92.24707"
        y="33.144409"
-       id="text3800"
+       id="class"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3802"
@@ -97,8 +97,9 @@
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
        x="35"
        y="62.362183"
-       id="text3817"
-       sodipodi:linespacing="125%"><tspan
+       id="attribute_1"
+       sodipodi:linespacing="125%"
+       inkscape:label="#attribute"><tspan
          sodipodi:role="line"
          id="tspan3819"
          x="35"
@@ -108,7 +109,7 @@
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
        x="35"
        y="92.362183"
-       id="text3821"
+       id="method_0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3823"
@@ -119,8 +120,9 @@
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
        x="35"
        y="117.36218"
-       id="text3825"
-       sodipodi:linespacing="125%"><tspan
+       id="method_1"
+       sodipodi:linespacing="125%"
+       inkscape:label="#method"><tspan
          sodipodi:role="line"
          id="tspan3827"
          x="35"
@@ -130,8 +132,9 @@
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
        x="17.914063"
        y="62.358276"
-       id="text3829"
-       sodipodi:linespacing="125%"><tspan
+       id="private_0"
+       sodipodi:linespacing="125%"
+       inkscape:label="#private"><tspan
          sodipodi:role="line"
          id="tspan3831"
          x="17.914063"
@@ -141,7 +144,7 @@
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
        x="15"
        y="92.362183"
-       id="text3833"
+       id="public"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3835"
@@ -152,8 +155,9 @@
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
        x="17.914063"
        y="117.35828"
-       id="text3837"
-       sodipodi:linespacing="125%"><tspan
+       id="private_1"
+       sodipodi:linespacing="125%"
+       inkscape:label="#private"><tspan
          sodipodi:role="line"
          id="tspan3839"
          x="17.914063"
